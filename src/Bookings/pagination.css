@@ -1,0 +1,14 @@
+.page-button {
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 14px;
+  background-color: #ccc;
+  border: 1px solid #333;
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.page-button.active {
+  background-color: #54585d;
+  color: #fff;
+}
